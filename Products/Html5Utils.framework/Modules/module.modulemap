@@ -1,0 +1,6 @@
+framework module Html5Utils {
+  umbrella header "Html5Utils.h"
+
+  export *
+  module * { export * }
+}
